@@ -1,5 +1,6 @@
 # testing
 For testing purpose only
 
-One
-Two
+- One
+- Two
+- Three
